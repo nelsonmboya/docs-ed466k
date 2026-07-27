@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-qfu01v.wedang77land.store/sitemap.xml
